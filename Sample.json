@@ -1,0 +1,37 @@
+{
+    
+    "orgName": "XXX",
+    
+    "orgID": "0",
+    
+    "accounts": [
+                 {
+                 
+                 "ID": "0",
+                 
+                 "name": "XXX",
+                 "accountType": "XXX"
+                 
+                 }
+                 
+                 ],
+    "children": [
+                 {
+                 "orgName": "XXX",
+                 
+                 "orgID": "1",
+                 
+                 "accounts": [
+                              {
+                              "ID": "1",
+                              "name": "XXX",
+                              "accountType": "XXX"
+                              
+                              }  
+                              
+                              ],  
+                 "children": []  
+                 }  
+                 ]  
+    
+}
